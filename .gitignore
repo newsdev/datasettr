@@ -1,0 +1,8 @@
+working/*.csv
+working/*/*.csv
+databases/*.db
+databases/*/*.db
+*.pyc
+*.pyo
+.vscode
+__pycache__
